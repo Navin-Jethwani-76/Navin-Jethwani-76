@@ -10,8 +10,8 @@
   - Prebuilt NextUI Components.
   - Beautiful and responsive components, built with Beautiful, fast and modern React UI library NextUI
 
-#### <a href="https://udemyz.vercel.app/">Udemyz</a>
-  - Free Udemy courses to learn and upskill professional requirements.
+#### <a href="https://www.npmjs.com/package/nextjs-auth-cli">NextJs Auth CLI</a>
+  - A CLI tool to scaffold authentication backend routes into any Next.js project with support for MySQL, PostgreSQL, and libSQL (Turso) using Drizzle ORM.
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
